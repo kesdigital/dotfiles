@@ -1,0 +1,8 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Shindra David
+	email = shindradavid.dev@gmail.com
+[core]
+	editor = vim
+	autocrlf = input
