@@ -4,5 +4,5 @@
 	name = Shindra David
 	email = shindradavid.dev@gmail.com
 [core]
-	editor = vim
+	editor = nvim
 	autocrlf = input
