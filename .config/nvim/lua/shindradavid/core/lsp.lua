@@ -62,6 +62,7 @@ local servers = {
 	emmet_ls = {},
 	jsonls = {},
 	sqlls = {},
+	-- dartls = {},
 	lua_ls = {
 		Lua = {
 			workspace = { checkThirdParty = false },

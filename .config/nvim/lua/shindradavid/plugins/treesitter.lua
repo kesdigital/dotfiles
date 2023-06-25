@@ -22,6 +22,7 @@ return {
         'go',
         'lua',
         'bash',
+        'dart',
         'python',
         'tsx',
         'help',
